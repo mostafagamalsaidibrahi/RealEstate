@@ -1,0 +1,16 @@
+.retirve{
+  width: 40%;
+  margin: auto;
+  margin-top: 50px;
+}
+.retirve .table .thead-light th{
+  background-color: #1934ab;
+  border: 1px solid #1934ab;
+  color: #fff;
+}
+.retirve .table td, .table th{
+  color: #000;
+  background-color: white;
+  border-bottom: 1px solid #1934ab;
+  font-weight: bold;
+}

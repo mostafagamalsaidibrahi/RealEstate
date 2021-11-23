@@ -1,0 +1,55 @@
+.head-section .mainImage .cover .signup{
+  width: 30%;
+  margin: auto;
+  height: 60%;
+}
+.head-section .mainImage .cover .signup .title{
+  background-color: #1934ab;
+  height: 15%;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+}
+.head-section .mainImage .cover .signup .title > p{
+  color: #fff;
+  font-family: Andale Mono, monospace;
+  font-size: 40px;
+}
+.head-section .mainImage .cover .signup .content{
+  background-color: #0000008c;
+  height: 75%;
+}
+.head-section .mainImage .cover .signup .content .forms{
+  width: 70%;
+  margin: auto;
+}
+.head-section .mainImage .cover .signup .content .forms > form > .form-group > input{
+  background: none;
+  border: none;
+  border-bottom: 2px solid #1934ab;
+  outline: none;
+  color: #fff;
+  text-align: center;
+}
+.head-section .mainImage .cover .signup .content .forms > form > button ,
+.head-section .mainImage .cover .signup .content .forms > form > button:hover{
+  background-color: #1934ab;
+  width: 100%;
+  border: 1px solid #1934ab;
+  margin-top: 5px;
+}
+
+.head-section .mainImage .cover .signup .ending{
+  background-color: #1934ab;
+  height: 10%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.head-section .mainImage .cover .signup .ending > p{
+  color: #fff;
+  padding-top: 10px;
+}
+.head-section .mainImage .cover .signup .ending > p > a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}

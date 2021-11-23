@@ -1,0 +1,46 @@
+.posts{
+  background-color: #1934ab;
+  width: 50%;
+  margin: auto;
+  padding: 50px 10px;
+  margin-top: 10px;
+  border-radius: 60px;
+}
+.posts .card{
+  margin: auto;
+  border-radius: 30px;
+  width: 100% !important;
+}
+.posts .card .card-body > center > h5{
+  color: #1934ab;
+  font-size: 30px;
+  font-weight: bold;
+  border-bottom: 4px solid #1934ab;
+  display: inline-block;
+  padding-bottom: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.posts .card .card-body > p ,
+.posts .card > ul > li{
+  font-size: 15px;
+  font-weight: bold;
+}
+.posts .card > ul > li > span ,
+.posts .card .card-body > p > span {
+  color: #1934ab;
+}
+.posts .card .card-body > .phone{
+  border: 1px solid green;
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: green;
+  color: #fff;
+  border-radius: 20px;
+}
+.badge-secondary{
+  background-color: #1934ab;
+  padding: 10px;
+  margin-left: 10px;
+  color: white!important;
+}
